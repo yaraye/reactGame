@@ -9,7 +9,7 @@ const Nav = props => (
         <Link to='/' className='nav-link' onClick ={()=> props.handleShuffle(sampleImage)}>Click Game  </Link>
     </li>
     <li className='nav-brand' id='score' >
-        <p> Click an image to begin!: {props.message}</p> 
+        <p>{props.message}</p> 
     </li>
     <li className='nav-brand' id='score' >
         <p>Score: {props.score}</p> 
