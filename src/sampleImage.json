@@ -1,0 +1,84 @@
+[
+    {
+    "id":1,
+    "name":"Aquarius",
+    "image":"http://prakashastrologer.com/wp-content/uploads/2014/10/Aquarius_icon.png", 
+    "clicked":false
+    },
+   {
+    "id":2,
+    "name":"Aries",
+    "image":"https://i0.wp.com/www.adleone.com/wp-content/uploads/2017/03/aries-1.png?fit=499%2C499",  
+    "clicked":false
+      
+    },
+   {
+        "id":3,
+     "name":"Cancer",
+   "image": "http://www.horoscopefan.com/wp-content/uploads/2016/06/cancer-sign-horoscope.png",   
+   "clicked":false
+      
+    },
+   {
+        "id":4,
+     "name":"Capricorn",
+   "image": "https://1.bp.blogspot.com/-e_JMTUxhPEk/WId5bwF0jQI/AAAAAAAAIok/85oPy-YbJ5kLF8Z8DS58mcXQQfzZr9B3gCK4B/s1600/9-oglak-burcu-gunluk-burc-yorumu.png",  
+    "clicked":false
+      
+    },
+   {
+        "id":5,
+     "name":"Gemini",
+   "image": "http://ladysblog.ro/wp-content/uploads/2015/12/Zodia-gemenilor-2016.png",  
+    "clicked":false
+      
+    },
+   {
+        "id":6,
+     "name":"Leo",
+   "image": "https://xorismos.gr/wp-content/uploads/2018/06/Leo_icon.png",  
+    "clicked":false
+     
+    },
+   {
+        "id":7,
+     "name":"Libra",
+   "image": "http://prakashastrologer.com/wp-content/uploads/2014/10/Libra_icon.png",   
+   "clicked":false
+      
+    },
+   {
+        "id":8,
+     "name":"Pisces",
+   "image": "http://assets.stickpng.com/thumbs/5858eb694f6ae202fedf27fa.png",  
+    "clicked":false
+      
+    },
+   {
+        "id":9,
+     "name":"Sagittarius",
+   "image": "http://www.indiaastroloogia.ee/wp-content/uploads/2017/12/ambur.png", 
+     "clicked":false
+      
+    },
+   {
+        "id":10,
+     "name":"Scorpio",
+   "image": "http://www.tellmeboss.net/images/posts/20170424112222.png",  
+    "clicked":false
+      
+    },
+   {
+        "id":11,
+     "name":"Taurus",
+   "image": "http://prakashastrologer.com/wp-content/uploads/2014/10/Taurus_icon.png", 
+     "clicked":false
+      
+    },
+   {
+        "id":12,
+     "name":"Virgo",
+   "image": "http://spacehoroscope.com/wp-content/uploads/2017/11/Virgo.png", 
+     "clicked":false
+    }
+]
