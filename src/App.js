@@ -54,7 +54,7 @@ class App extends Component {
       this.setState({ message: "You win!"});
     }
   
-    // this.handleShuffle();
+    this.handleShuffle();
   };
 
   handleReset = () => {
